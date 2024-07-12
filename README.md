@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pankaj Gupta</h1>
-<h3 align="center">Mern Stack Developer || Flutter Developer || Devops Enthusists</h3>
+<h3 align="center">Devops Engineer || Flutter Developer || Mern Stack Developer</h3>
 
 - 🔭 I’m currently working on **Medical Healthcare App**
 
