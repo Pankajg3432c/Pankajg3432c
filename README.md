@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Pankaj Gupta</h1>
 <h3 align="center">Devops Engineer || Flutter Developer || Mern Stack Developer</h3>
 
-- 🔭 I’m currently working on **Medical Healthcare App**
+- 🌱 I’m currently learning **AWS**
 
-- 🌱 I’m currently learning **Devops**
+- 👨‍💻 All of my projects are available at [https://pankajg3432c.github.io/Portfolio/](https://pankajg3432c.github.io/Portfolio/)
 
 - 📫 How to reach me **pankaj10112004gupta@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1d-kcV6IEkzPwQMcELEE7npCyYi5JvPLO/view?usp=drive_link](https://drive.google.com/file/d/1d-kcV6IEkzPwQMcELEE7npCyYi5JvPLO/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
