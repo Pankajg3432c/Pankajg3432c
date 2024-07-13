@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **AWS**
 
-- 👨‍💻 All of my projects are available at [https://pankajg3432c.github.io/Portfolio/](https://pankajg3432c.github.io/Portfolio/)
-
 - 📫 How to reach me **pankaj10112004gupta@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1d-kcV6IEkzPwQMcELEE7npCyYi5JvPLO/view?usp=drive_link](https://drive.google.com/file/d/1d-kcV6IEkzPwQMcELEE7npCyYi5JvPLO/view?usp=drive_link)
