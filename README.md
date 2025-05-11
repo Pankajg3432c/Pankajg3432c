@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pankaj Gupta</h1>
-<h3 align="center">DevSecOps Engineer || Flutter Developer</h3>
+<h3 align="center">DevSecOps Engineer || Cloud Engineer</h3>
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **Azure DevOps**
 
 - 📫 How to reach me **pankaj10112004gupta@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1d-kcV6IEkzPwQMcELEE7npCyYi5JvPLO/view?usp=drive_link](https://drive.google.com/file/d/1d-kcV6IEkzPwQMcELEE7npCyYi5JvPLO/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
