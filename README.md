@@ -3,7 +3,7 @@
 <h3 align="center">👨‍💻 DevOps | Cloud | Automation | CI/CD | Infrastructure as Code</h3>
 
 - 🌱 I’m currently learning **Azure Devops,Elk Stack**
-
+- 💬 Ask me about **DevOps, Cloud Computing (AWS, Microsoft Azure), Kubernetes, Python, Linux System Administration, Git, Docker, Terraform, Jenkins, Ansible, Bash Scripting**
 - 📫 How to reach me **Pankaj10112004gupta@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
