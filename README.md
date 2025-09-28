@@ -18,7 +18,7 @@
 
 <h3 align="left">💼 Experience:</h3>
 
-- **DevOps Intern @ Codenscious Technologies Pvt Ltd, Indore** (June 2025 – Aug 2025)  
+- **DevOps Intern @ Codenscious Technologies Pvt Ltd, Indore** (June 2025 – Sept 2025)  
   - Containerized applications using **Docker** and managed multi-container environments with **Docker Compose**.  
   - Built and deployed a **Node.js application** on **AWS EC2** using Docker & Kubernetes for scalability and reliability.  
   - Automated infrastructure provisioning with **Terraform** and implemented **Infrastructure as Code (IaC)** best practices.  
