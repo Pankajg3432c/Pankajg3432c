@@ -2,6 +2,10 @@
 <h1 align="center">Hi 👋, I'm Pankaj Gupta</h1>
 <h3 align="center">👨‍💻 DevOps | Cloud | Automation | CI/CD | Infrastructure as Code</h3>
 
+![Profile Views](https://komarev.com/ghpvc/?username=kkrish-77&color=blueviolet&style=flat-square)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=flat-square&logo=google-chrome)](https://pankaj-portfolio-gamma.vercel.app/)
+
+
 - 🌱 I’m currently learning **Azure Devops,Elk Stack**
 - 💬 Ask me about **DevOps, Cloud Computing (AWS, Microsoft Azure), Kubernetes, Python, Linux System Administration, Git, Docker, Terraform, Jenkins, Ansible, Bash Scripting**
 - 📫 How to reach me **Pankaj10112004gupta@gmail.com**
